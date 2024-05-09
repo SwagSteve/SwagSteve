@@ -9,4 +9,4 @@ who is fairly familiar with java and python.
 
 I am currently learning HTML, CSS and JavaScript
 
-Check out my latest project [What Pack Is That?](https://swagsteve.github.io/What-Pack-Is-That/)
+Check out my latest project [What Pack Is That?](https://swagsteve.github.io/What-Pack-Is-That/) and my plugin website [here](https://swagsteve.github.io/)
