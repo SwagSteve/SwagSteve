@@ -1,4 +1,4 @@
-![alt text](https://github.com/SwagSteve/swagsteve.github.io/blob/56008c2f4637e454e75eb3153c1830761b2e3a36/assets/minecraft_title2.png?raw=true)
+![alt text](https://raw.githubusercontent.com/SwagSteve/swagsteve.github.io/74853ae8364a2b1ae492799c7a63c1701d843a81/assets/minecraft_title-mangrove.png?raw=true)
 
 # Hey 👋
 
