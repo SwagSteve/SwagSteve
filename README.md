@@ -7,6 +7,6 @@ I'm Ben and I'm 20 years old and from 🇬🇧.
 I'm a Spigot plugin developer,
 who is fairly familiar with java and python.
 
-I am currently learning HTML, CSS and JavaScript
+I am currently making a Minecraft Event, called MCT!
 
 Check out my latest project [What Pack Is That?](https://swagsteve.github.io/What-Pack-Is-That/) and my plugin website [here](https://swagsteve.github.io/)
